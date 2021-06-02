@@ -9,7 +9,8 @@ Initial Security()
 {
  //Sample Code
 }
-
-
+{
+applied changes of feature1
+}
 
 }
